@@ -1,7 +1,7 @@
-variable "rg-location"{
+variable "rg_location"{
     type=list(string)
 }
-variable"rg-name"{
+variable"rg_name"{
     type = list(string)
 }
 
